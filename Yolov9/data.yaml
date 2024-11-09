@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Colab Notebooks/Yolov9/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Yolov9/val/images
+test: /content/drive/MyDrive/Colab Notebooks/Yolov9/test/images
+
+nc: 2
+names: ['Paragraph', 'Table']
